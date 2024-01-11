@@ -1,5 +1,5 @@
 **Recommendation Systems - A.Y. 2023-24**
-CSDOL8022 important experiments and lecture material with their implementations.
+CSDOL8022 experiments.
 
 List of experiments is as follows :
 
