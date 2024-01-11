@@ -3,7 +3,7 @@ CSDOL8022 important experiments and lecture material with their implementations.
 
 List of experiments is as follows :
 
-Experiment 01 ~ Implementation of Matrix operations and data representation towards understanding mathematics for recommendation system /
+Experiment 01 ~ Implementation of Matrix operations and data representation towards understanding mathematics for recommendation system 
 
 Experiment 02 ~ Feature engineering and pre-processing of data for recommendation systems
 
